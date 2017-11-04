@@ -23,6 +23,10 @@ And finally install the SDL2 libraries:
 
 ### Windows (TBD)
 ### Linux (TBD)
+### Debian/Ubuntu
+Install dependencies by running `sudo apt install pkg-config freeglut3-dev mesa-utils make libmpc3 gcc gcc-avr avr-libc libelf-dev libsdl2-dev`
+
+Then, you can clone, build then run it.
 
 ### Clone, build and run
 
